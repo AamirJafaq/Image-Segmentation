@@ -1,5 +1,6 @@
 # Image-Segmentation
 Image Segmentation
+
 The image segmentation data is a complex and large data set. The instances were
 drawn randomly from a database of 7 outdoor images. The images were hand
 segmented to create a classification for every pixel. Each instance is a 3x3 region.
